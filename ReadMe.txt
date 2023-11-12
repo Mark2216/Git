@@ -4,3 +4,10 @@
 - git add 
 - git rm --cached -r <filename>
 - git rm --cached <filename>
+- git diff <versionId1> <versionId2>
+- git log
+- git log --graph
+- git checkout <filename>
+- git reset <filename>
+- git show HEAD
+- git reset --hard <versionId>
