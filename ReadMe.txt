@@ -1,13 +1,17 @@
 -- Git Command
 
 - git init 
-- git add 
+- git add <filename> // add file to git 
 - git rm --cached -r <filename>
 - git rm --cached <filename>
-- git diff <versionId1> <versionId2>
-- git log
+- git diff <versionId1> <versionId2> // how different between versionId1 and versionId2
+- git log 
 - git log --graph
 - git checkout <filename>
 - git reset <filename>
 - git show HEAD
 - git reset --hard <versionId>
+- git branch // list all branch
+- git checkout -b <branchname>  // create new branch
+- git checkout -d <branchname>  // delete branch
+- git merge <branchname>
