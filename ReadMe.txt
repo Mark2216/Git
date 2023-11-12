@@ -18,3 +18,4 @@
 - git branch -M main
 - git remote add origin https://github.com/Mark2216/Git.git
 - git push -u origin main
+- git pull // update repository
